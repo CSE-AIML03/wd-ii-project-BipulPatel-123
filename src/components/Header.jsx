@@ -19,7 +19,7 @@ function Header() {
         {/* Deliver To */}
         <div className="flex items-center border border-transparent hover:border-white p-2 rounded cursor-pointer mx-2 hidden md:flex">
           <div className="flex flex-col ml-1">
-            <span className="text-xs text-gray-300">Deliver to Akshat</span>
+            <span className="text-xs text-gray-300">Deliver to Bipul</span>
             <span className="font-bold text-sm leading-3">New Delhi 110001</span>
           </div>
         </div>
